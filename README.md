@@ -21,19 +21,19 @@
 
 | Rules Name 	| 🚀Github Raw 	| 🚀Github Pages 	| 🚀Cloudflare Pages 	| 
 |:---:	|:---:	|:---:	|:---:	| 
-| AdRules AdBlock List 	| [Link](https://raw.githubusercontent.com/Uncle-Loong/AdRules/main/adblock.txt) 	| [Link](https://adrules.us.kg/adblock.txt) 	| [Link](https://adrules.5i計畫通行.cloudns.org/adblock.txt) 	| 
-| AdRules AdBlock List Lite 	| [Link](https://raw.githubusercontent.com/Uncle-Loong/AdRules/main/adblock_lite.txt) 	| [Link](https://adrules.us.kg/adblock_lite.txt) 	| [Link](https://adrules.5i計畫通行.cloudns.org/adblock_lite.txt) 	| 
-| AdRules AdBlock List Plus 	| [Link](https://raw.githubusercontent.com/Uncle-Loong/Cats.AdRules/main/adblock_plus.txt) 	| [Link](https://adrules.us.kg/adblock_plus.txt) 	| [Link](https://adrules.5i計畫通行.cloudns.org/adblock_plus.txt) 	| 
+| AdRules AdBlock List 	| [Link](https://raw.githubusercontent.com/Uncle-Loong/AdRules/main/adblock.txt) 	| [Link](https://adrules.us.kg/adblock.txt) 	| [Link](https://adrules.5iclub.cloudns.org/adblock.txt) 	| 
+| AdRules AdBlock List Lite 	| [Link](https://raw.githubusercontent.com/Uncle-Loong/AdRules/main/adblock_lite.txt) 	| [Link](https://adrules.us.kg/adblock_lite.txt) 	| [Link](https://adrules.5iclub.cloudns.org/adblock_lite.txt) 	| 
+| AdRules AdBlock List Plus 	| [Link](https://raw.githubusercontent.com/Uncle-Loong/Cats.AdRules/main/adblock_plus.txt) 	| [Link](https://adrules.us.kg/adblock_plus.txt) 	| [Link](https://adrules.5iclub.cloudns.org/adblock_plus.txt) 	| 
 - **DNS Rules**
 
 | Syntax 	| 🚀Github Raw  | 🚀Github Pages 	| 🚀Cloudflare Pages 	| 
 |:---:	|:---:	|:---:	|:---:	| 
-| ABP 	| [Link](https://raw.githubusercontent.com/Uncle-Loong/AdRules//main/dns.txt) 	| [Link](https://adrules.us.kg/dns.txt) 	| [Link](https://adrules.5i計畫通行.cloudns.org/dns.txt) 	| 
-| SmartDNS 	| [Link](https://raw.githubusercontent.com/Uncle-Loong/AdRules//main/smart-dns.conf) 	| [Link](https://adrules.us.kg/smart-dns.conf) 	| [Link](https://adrules.5i計畫通行.cloudns.org/smart-dns.txt) 	| 
-| MosDNS 	| [Link](https://raw.githubusercontent.com/Uncle-Loong/AdRules//main/mosdns_adrules.txt) 	| [Link](https://adrules.us.kg/mosdns_adrules.txt) 	| [Link](https://adrules.5i計畫通行.cloudns.org/mosdns_adrules.txt) 	| 
-| Clash Domainset 	| [Link](https://raw.githubusercontent.com/Uncle-Loong/AdRules//main/adrules_domainset.txt) 	| [Link](https://aadrules.us.kg/adrules_domainset.txt) 	| [Link](https://adrules.5i計畫通行.cloudns.org/adrules_domainset.txt) 	| 
-| Surge/Loon Ruleset 	| [Link](https://raw.githubusercontent.com/Uncle-Loong/AdRules//main/adrules.list) 	| [Link](https://adrules.us.kg/adrules.list) 	| [Link](https://adrules.5i計畫通行.cloudns.org/adrules.txt) 	| 
-| Quantumult X 	| [Link](https://raw.githubusercontent.com/Uncle-Loong/AdRules//main/qx.conf) 	| [Link](https://adrules.us.kg/qx.conf) 	| [Link](https://adrules.5i計畫通行.cloudns.org/qx.txt) 	| 
+| ABP 	| [Link](https://raw.githubusercontent.com/Uncle-Loong/AdRules//main/dns.txt) 	| [Link](https://adrules.us.kg/dns.txt) 	| [Link](https://adrules.5iclub.cloudns.org/dns.txt) 	| 
+| SmartDNS 	| [Link](https://raw.githubusercontent.com/Uncle-Loong/AdRules//main/smart-dns.conf) 	| [Link](https://adrules.us.kg/smart-dns.conf) 	| [Link](https://adrules.5iclub.cloudns.org/smart-dns.txt) 	| 
+| MosDNS 	| [Link](https://raw.githubusercontent.com/Uncle-Loong/AdRules//main/mosdns_adrules.txt) 	| [Link](https://adrules.us.kg/mosdns_adrules.txt) 	| [Link](https://adrules.5iclub.cloudns.org/mosdns_adrules.txt) 	| 
+| Clash Domainset 	| [Link](https://raw.githubusercontent.com/Uncle-Loong/AdRules//main/adrules_domainset.txt) 	| [Link](https://aadrules.us.kg/adrules_domainset.txt) 	| [Link](https://adrules.5iclub.cloudns.org/adrules_domainset.txt) 	| 
+| Surge/Loon Ruleset 	| [Link](https://raw.githubusercontent.com/Uncle-Loong/AdRules//main/adrules.list) 	| [Link](https://adrules.us.kg/adrules.list) 	| [Link](https://adrules.5iclub.cloudns.org/adrules.txt) 	| 
+| Quantumult X 	| [Link](https://raw.githubusercontent.com/Uncle-Loong/AdRules//main/qx.conf) 	| [Link](https://adrules.us.kg/qx.conf) 	| [Link](https://adrules.5iclub.cloudns.org/qx.txt) 	| 
 
 
 ## License
